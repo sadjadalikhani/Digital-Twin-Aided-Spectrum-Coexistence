@@ -1,6 +1,11 @@
 # Digital-Twin-Aided-Spectrum-Coexistence
 
-The MATLAB implementation of the paper "Digital Twin for Spectrum Sharing and Coexistence: Coordinating the Uncoordinated". If you want to use the dataset or scripts in this page, please cite the following paper:
+- In order to run the code, you need to have channel datasets. You can find the channel datasets here:
+https://www.dropbox.com/scl/fo/e9rwfix3tjerb03tz1uwx/ANR8_lWg79QKg3cS6rn-JBI?rlkey=ci5zy57qyzqz7pcnqcsgpb71a&st=82mzsnte&dl=0
+
+- Please make sure you have installed CVX on your MATLAB for solving convex optimization problems.
+
+- This is the MATLAB implementation of the paper "Digital Twin for Spectrum Sharing and Coexistence: Coordinating the Uncoordinated". If you want to use the dataset or scripts in this page, please cite the following paper:
 ```
 @INPROCEEDINGS{10694568,
   author={Alikhani, Sadjad and Alkhateeb, Ahmed},
@@ -14,7 +19,3 @@ The MATLAB implementation of the paper "Digital Twin for Spectrum Sharing and Co
   doi={10.1109/SPAWC60668.2024.10694568}}
 
 ```
-
-You can find the channel datasets here:
-
-https://www.dropbox.com/scl/fo/e9rwfix3tjerb03tz1uwx/ANR8_lWg79QKg3cS6rn-JBI?rlkey=ci5zy57qyzqz7pcnqcsgpb71a&st=82mzsnte&dl=0
